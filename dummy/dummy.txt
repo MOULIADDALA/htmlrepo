@@ -1,0 +1,7 @@
+git config --global user.email "yuvaaddala922@gmail.com"
+git config --global user.name "MOULIADDALA"
+git status
+git add .
+git status
+git commit -m "file is added"
+git push
